@@ -1,2 +1,2 @@
 # Typeahead
-A humble attempt at helping myself and others stay ahead of the pack when it comes to typography on the web. I'm collecting resources on front-end design and typography in hopes to make the internet a more beatuiful and legible place.
+A humble attempt at helping myself and others stay ahead of the pack when it comes to typography on the web. I'm collecting resources on front-end design and typography in hopes to make the internet a more beautiful and legible place.
